@@ -1,5 +1,8 @@
 ![Fidgett Bass](images/fidgett_header.png)
 
+> If you understand how the universe operates, you control it in a way.
+> - Stephen Hawking
+
 - I’m @DavidFidgett , here, there and everywhere.
 - Computer Engineer - UNAM
 - Audio Engineer - SAE Institute
