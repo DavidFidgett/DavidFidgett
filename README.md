@@ -1,3 +1,5 @@
+![Fidgett] (/images/fidgett_header.JPG)
+
 - I’m @DavidFidgett , here, there and everywhere.
 - Computer Engineer - UNAM
 - Audio Engineer - SAE Institute
