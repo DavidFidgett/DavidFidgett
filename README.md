@@ -1,4 +1,4 @@
-![Fidgett] (/images/fidgett_header.JPG)
+![Fidgett Bass] (images/fidgett_header.JPG)
 
 - I’m @DavidFidgett , here, there and everywhere.
 - Computer Engineer - UNAM
